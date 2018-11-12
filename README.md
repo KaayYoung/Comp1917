@@ -1,6 +1,8 @@
 The first computing course in UNSW                                                  
-COMP1917: Data structure and Algorithms                           
-Main knowledge in COMP1917 -                    
+COMP1917: Data structure and Algorithms 1                           
+
+
+Main Topics:                   
 Array and String                       
 Function and pointer                       
 Dynamic memory allocation                     
